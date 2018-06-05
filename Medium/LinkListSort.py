@@ -86,7 +86,5 @@ def generate_list_nodes(size):
         curr=curr.next
     return head
 
-
-ListNode(5),ListNode(10),ListNode(200),ListNode(0),ListNode(-9)
 if __name__=="__main__":
     main(sys.argv[1:])
