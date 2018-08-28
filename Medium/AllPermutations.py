@@ -2,7 +2,6 @@
 # Example "ABC" => ["ABC","ACB","BCA","BAC","CAB","CBA"]
 import sys
 
-
 class Solution():
     def __init__(self):
         self.permutations_arr=[]
