@@ -1,3 +1,5 @@
+# Q : reverse a Link List using Recursion
+# Example A -> B -> C -> D  =>  D -> C -> B -> A
 import sys
 import random
 
@@ -44,14 +46,6 @@ def main(args):
     list.reverse_list()
     print("-----Reverse List------")
     LinkList.print_list(list.head)
-
-
-
-
-
-
-
-
 
 
 if __name__=="__main__":
